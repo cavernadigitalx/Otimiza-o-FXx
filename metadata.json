@@ -1,0 +1,6 @@
+{
+  "name": "MotoTurbo - Otimizador Máximo Motorola",
+  "description": "App de otimização máxima, limpeza profunda de cache, aceleração de RAM Boost, controle térmico TurboPower e ajustes Gametime para smartphones Motorola.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
